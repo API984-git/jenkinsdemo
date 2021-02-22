@@ -2,7 +2,7 @@
 # Series 
 
 # Static input fo N 
-N=6 
+N=$1
 
 # First Number of the 
 # Fibonacci Series 
@@ -22,3 +22,4 @@ do
 	b=$fn 
 done
 # End of for loop 
+
